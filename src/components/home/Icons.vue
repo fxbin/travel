@@ -94,6 +94,7 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+    @import "../../assets/styles/varibles.styl"
     @import "../../assets/styles/mixins.styl"
 
     .icons >>> .swiper-container
